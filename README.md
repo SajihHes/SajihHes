@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajih Hesni</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<h3 align="center">A passionate software engineer from Dominican Republic</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
 
