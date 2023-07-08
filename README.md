@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajih Hesni</h1>
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
