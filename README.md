@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajih Hesni</h1>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
        alt="snake" /></a>
+  
 </div>
 
 <h3 align="center">A passionate software engineer from Dominican Republic</h3>
